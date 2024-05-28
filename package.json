@@ -12,7 +12,7 @@
     "readline-sync": "^1.4.10"
   },
   "scripts": {
-    "start": "node tapbot.js"
+    "start": "node ./src/tapbot.js"
   },
   "author": "John-Daniels",
   "license": "MIT"
