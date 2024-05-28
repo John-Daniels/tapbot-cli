@@ -1,5 +1,3 @@
-Sure! Here’s a comprehensive README for your package:
-
 # Tapbot
 
 <!-- ![Tapbot Logo](https://example.com/tapbot-logo.png) -->
