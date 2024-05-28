@@ -1,6 +1,6 @@
 {
   "name": "tapbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A script to automate screen taps using adb",
   "main": "./src/tapbot.js",
   "bin": {
