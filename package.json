@@ -8,7 +8,7 @@
   },
   "type": "module",
   "dependencies": {
-    "adbkit": "^2.12.1",
+    "adbkit": "^2.11.1",
     "readline-sync": "^1.4.10"
   },
   "scripts": {
