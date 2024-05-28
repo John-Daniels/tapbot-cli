@@ -1,0 +1,19 @@
+{
+  "name": "tapbot",
+  "version": "1.0.0",
+  "description": "A script to automate screen taps using adb",
+  "main": "./src/tapbot.js",
+  "bin": {
+    "tapbot": "./src/tapbot.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "adbkit": "^2.12.1",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node tapbot.js"
+  },
+  "author": "johnkoder",
+  "license": "MIT"
+}
