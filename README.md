@@ -60,14 +60,14 @@ Tapbot detects the screen resolution of your connected Android device and taps o
 
 ## Contributing
 
-We welcome contributions to Tapbot! If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request on our [GitHub repository](https://github.com/yourusername/tapbot).
+We welcome contributions to Tapbot! If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request on our [GitHub repository](https://github.com/John-Daniels/tapbot-cli).
 
 ### To contribute:
 
 1. **Fork the repository** on GitHub.
 2. **Clone your fork** to your local machine:
    ```sh
-   git clone https://github.com/John-Daniels/tapbot.git
+   git clone https://github.com/John-Daniels/tapbot-cli.git
    ```
 3. **Create a new branch** for your feature or bugfix:
    ```sh
@@ -97,4 +97,4 @@ We'd like to thank the open-source community for their invaluable contributions,
 
 Enjoy using Tapbot, and happy automating!
 
-If you encounter any issues, feel free to open an issue on our [GitHub repository](https://github.com/John-Daniels/tapbot).
+If you encounter any issues, feel free to open an issue on our [GitHub repository](https://github.com/John-Daniels/tapbot-cli).

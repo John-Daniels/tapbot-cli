@@ -1,7 +1,7 @@
 import { fileURLToPath } from "url";
 import path from "path";
 
-const GH_REPO = "https://github.com/John-Daniels/tapbot/issues";
+const GH_REPO = "https://github.com/John-Daniels/tapbot-cli/issues";
 export const getDirname = (url) => {
   const __filename = fileURLToPath(url);
   const __dirname = path.dirname(__filename);
